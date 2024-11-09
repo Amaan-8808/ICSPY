@@ -1,0 +1,13 @@
+**/__pycache__
+virtualpcap/
+build/
+dist/
+results/packet/
+output/
+results/
+templates/network.html
+*.pcap
+config.ini
+app.spec
+.idea
+.idea/
